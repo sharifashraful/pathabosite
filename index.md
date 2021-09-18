@@ -1,4 +1,4 @@
-##Pathabo Privacy Policy
+## Pathabo Privacy Policy
 
 You can use the [editor on GitHub](https://github.com/sharifashraful/pathabosite/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
